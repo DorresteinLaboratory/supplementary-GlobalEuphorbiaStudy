@@ -7,6 +7,8 @@ D. Staerk, N. Nilsson, P. Lovato, P. C. Dorrestein & N. Rønsted.
 
 # Citation
 
+A DOI will be provided upon manuscript publication.
+
 # Files
 
 ### Cytoscape_SummaryTable.csv
