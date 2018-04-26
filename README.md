@@ -10,3 +10,11 @@ D. Staerk, N. Nilsson, P. Lovato, P. C. Dorrestein & N. Rønsted.
 
 # Folders
 
+## 3DMolecularCartography
+
+The folder called **3DMolecularCartography** contains R scripts and data files used for analyses associated with the 3D mass spectral molecular cartography. For more details see `3DMolecularCartography/README`.
+
+
+## ClassyFire
+
+The folder called **ClassyFire** contains R scripts and data files used for performing automated chemical classification of the in <i>silico</i> annotated structures using ClassyFire ([http://classyfire.wishartlab.com/](http://classyfire.wishartlab.com/), [Djoumbou Feunang et al., 2016] (https://jcheminf.springeropen.com/articles/10.1186/s13321-016-0174-y)).
