@@ -7,6 +7,16 @@ D. Staerk, N. Nilsson, P. Lovato, P. C. Dorrestein & N. Rønsted.
 
 # Citation
 
+# Files
+
+### Cytoscape_SummaryTable.csv
+
+The file called **Cytoscape_SummaryTable.csv** is a summary table of the mass spectral molecular network data described in the the manuscript and the supplementary material.
+
+### Euphorbia_Network.cys
+
+The file called **Euphorbia_Network.cys** is a file, which can be opened in Cytoscape version 3.4.0 ([Shannon et al., 2003](https://genome.cshlp.org/content/13/11/2498.full)) and visualizes the mass spectral molecular network and associated data as described in the manuscript and the supplementary material.
+
 
 # Folders
 
