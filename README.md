@@ -29,7 +29,7 @@ The folder called **Figure 4** and subfolders **Figure4A** and **Figures4BtoD** 
 
 ## Mass2Motifs_2_MolecularNetwork
 
-The folder called **Mass2Motifs_2_MolecularNetwork** contains R scripts and data files used for mapping Mass2Motifs ([Van der Hooft et al., 2016](http://www.pnas.org/content/113/48/13738.full), [Wandy et al., 2018](https://academic.oup.com/bioinformatics/article/34/2/317/4158166)) on the mass spectral molecular networks ([Wang et al., 2016](https://www.nature.com/articles/nbt.3597), [Watrous et al., 2012](http://www.pnas.org/content/109/26/E1743)). 
+The folder called **Mass2Motifs_2_MolecularNetwork** contains R scripts and data files used for mapping Mass2Motifs ([Van der Hooft et al., 2016](http://www.pnas.org/content/113/48/13738.full); [Wandy et al., 2018](https://academic.oup.com/bioinformatics/article/34/2/317/4158166)) on the mass spectral molecular networks ([Wang et al., 2016](https://www.nature.com/articles/nbt.3597); [Watrous et al., 2012](http://www.pnas.org/content/109/26/E1743)). 
 
 ## Optimus
 
@@ -41,4 +41,4 @@ The folder called **PGLS** contains R scripts and data files used for performing
 
 ## Sirius_CSIFingerID
 
-The folder called **Sirius_CSIFingerID** contains data files used and retrieved from <i>in silico</i> structure annotation through SIRIUS+CSI:FingerID ([Dührkop and Böcker, 2016](https://link.springer.com/chapter/10.1007%2F978-3-319-16706-0_10),[Dührkop et al., 2015](http://www.pnas.org/content/112/41/12580)). For more details see `Sirius_CSIFingerID/README`.
+The folder called **Sirius_CSIFingerID** contains data files used and retrieved from <i>in silico</i> structure annotation through SIRIUS+CSI:FingerID ([Dührkop and Böcker, 2016](https://link.springer.com/chapter/10.1007%2F978-3-319-16706-0_10); [Dührkop et al., 2015](http://www.pnas.org/content/112/41/12580)). For more details see `Sirius_CSIFingerID/README`.
