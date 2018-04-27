@@ -1,5 +1,7 @@
 This folder contains data files used and retrieved from <i>in silico</i> structure annotation through SIRIUS+CSI:FingerID ([Dührkop and Böcker, 2016](https://link.springer.com/chapter/10.1007%2F978-3-319-16706-0_10); [Dührkop et al., 2015](http://www.pnas.org/content/112/41/12580)). 
 
+# Files
+
 ### db.DNPHohmannShi
 
 The file called **db.DNPHohmannShi** comprises molecular structures (InChIs) of known compounds found in Euphorbiaceae.
