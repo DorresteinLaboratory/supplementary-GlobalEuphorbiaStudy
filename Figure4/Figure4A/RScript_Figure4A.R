@@ -17,10 +17,10 @@ library(countrycode)
 
 source("GBIFMAP_CUSTOMIZED.R")
 
-athymalus <- read.csv("Athymalus_0003633-171219132708484.csv", sep="\t",stringsAsFactors = F,quote="")
-chamaescyce <- read.csv("Chamaesyce_0003634-171219132708484.csv", sep="\t",stringsAsFactors = F,quote="")
-esula <- read.csv("Esula_0003635-171219132708484.csv", sep="\t",stringsAsFactors = F,quote="")
-euphorbia <- read.csv("Euphorbia_0003638-171219132708484.csv", sep="\t",stringsAsFactors = F,quote="")
+athymalus <- read.csv("Athymalus_0003633-171219132708484.csv", sep="\t",stringsAsFactors = F,quote="") # downloaded from https://doi.org/10.15468/dl.ug6cnm
+chamaescyce <- read.csv("Chamaesyce_0003634-171219132708484.csv", sep="\t",stringsAsFactors = F,quote="") # downloaded from https://doi.org/10.15468/dl.9ntc6n
+esula <- read.csv("Esula_0003635-171219132708484.csv", sep="\t",stringsAsFactors = F,quote="") # downloaded from https://doi.org/10.15468/dl.avy89i
+euphorbia <- read.csv("Euphorbia_0003638-171219132708484.csv", sep="\t",stringsAsFactors = F,quote="") # downloaded from https://doi.org/10.15468/dl.llmwkb
 
 # AS = Asia
 # EU = Europe
@@ -113,7 +113,7 @@ gbifmap_custom(euphorbia_nat)
 ## Hyles euphorbiae  #
 ######################
 
-hyles <- read.csv("Hyles_0003640-171219132708484.csv", sep="\t",stringsAsFactors = F,quote="")
+hyles <- read.csv("Hyles_0003640-171219132708484.csv", sep="\t",stringsAsFactors = F,quote="") # downloaded from https://doi.org/10.15468/dl.cgwykr
 hyles_conts <- countrycode(unique(hyles$countrycode),custom_dict= dict, origin = "iso.3166.country",destination="continent.code")
 hyles$continent <- hyles_conts[match(hyles$countrycode,unique(hyles$countrycode))]
 hyles <- hyles[hyles$year<1990,]
@@ -127,7 +127,7 @@ colnames(hyles)[colnames(hyles)=="species"] <- "name"
 ##################################
 #[Hundsdoerfer et al., 2009]
 
-efhyles <- read.csv("EFeedingHyles_0012430-171219132708484.csv", sep="\t",stringsAsFactors = F,quote="")
+efhyles <- read.csv("EFeedingHyles_0012430-171219132708484.csv", sep="\t",stringsAsFactors = F,quote="") # downloaded from https://doi.org/10.15468/dl.ahwr3w
 efhyles_conts <- countrycode(unique(efhyles$countrycode),custom_dict= dict, origin = "iso.3166.country",destination="continent.code")
 efhyles$continent <- efhyles_conts[match(efhyles$countrycode,unique(efhyles$countrycode))]
 
