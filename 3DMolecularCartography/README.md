@@ -1,4 +1,4 @@
-The folder called **3DMolecularCartography** contains R scripts and data files used for analyses associated with the 3D mass spectral molecular cartography. For more details see `3DMolecularCartography/README`.
+This folder contains R scripts and data files used for analyses associated with the 3D mass spectral molecular cartography. 
 
 # Files
 
