@@ -4,7 +4,7 @@ This folder contains data files used and retrieved from <i>in silico</i> structu
 
 ### db.DNPHohmannShi
 
-The file called **db.DNPHohmannShi** comprises molecular structures (InChIs) of known compounds found in Euphorbiaceae.
+The file called **db.DNPHohmannShi** comprises molecular structures (InChIs) of known compounds found in Euphorbiaceae manually compiled from literature ([Shi et al., 2008](https://pubs.acs.org/doi/abs/10.1021/cr078350s); [Vasas and Hohmann, 2014](https://pubs.acs.org/doi/abs/10.1021/cr400541j)) and the Dictionary of Natural Products (DNP) ([http://dnp.chemnetbase.com/faces/chemical/ChemicalSearch.xhtml](http://dnp.chemnetbase.com/faces/chemical/ChemicalSearch.xhtml)).
 
 ### Cytoscape_features_Sirius.csv
 
