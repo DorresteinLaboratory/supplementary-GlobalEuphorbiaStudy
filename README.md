@@ -7,7 +7,7 @@ D. Staerk, N. Nilsson, P. Lovato, P. C. Dorrestein & N. Rønsted.
 
 # Citation
 
-A DOI will be provided upon manuscript publication.
+ Please cite this supplementary material through: https://doi.org/10.1101/323014.
 
 # Files
 
