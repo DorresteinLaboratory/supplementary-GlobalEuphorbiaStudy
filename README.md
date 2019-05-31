@@ -54,3 +54,7 @@ The folder called **PGLS** contains R scripts and data files used for performing
 ## Sirius_CSIFingerID
 
 The folder called **Sirius_CSIFingerID** contains data files used and retrieved from <i>in silico</i> structure annotation through SIRIUS+CSI:FingerID ([Dührkop and Böcker, 2016](https://link.springer.com/chapter/10.1007%2F978-3-319-16706-0_10); [Dührkop et al., 2015](http://www.pnas.org/content/112/41/12580)). For more details see `Sirius_CSIFingerID/README`.
+
+## Links to interactive 3D mass spectral molecular cartographical snapshots
+
+* [<i>Euphorbia horrida</i> (Model 1)](https://ili.embl.de/?ftp://massive.ucsd.edu/MSV000081081/updates/2017-05-15_mernst_9ac10437/peak/EHorrida_Model1_WithRoots.stl;ftp://massive.ucsd.edu/MSV000081081/updates/2018-03-21_mernst_c88e7520/peak/X604.4476_10.9182_ID..2854_Horrida1.json;ftp://massive.ucsd.edu/MSV000081081/updates/2018-03-21_mernst_c88e7520/peak/EHorrida_Model1_features_MZmine.csv)
